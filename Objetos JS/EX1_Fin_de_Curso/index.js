@@ -3,7 +3,7 @@
 //iNICIALIZACION DE VARIABLES
     // INICIO CURSO
     let inicioCurso = new Date();
-    inicioCurso.setMonth(new Date().getMonth());
+    inicioCurso.setMonth(new Date().getMonth());ksnadasjdadsa
     inicioCurso.setFullYear(new Date().getFullYear());
     // FIN CURSO
     let finCurso = new Date();
